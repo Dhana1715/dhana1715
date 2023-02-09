@@ -5,7 +5,8 @@
 
 - 🔭 Interested in web application development.
 - 🌱 Currently learning React
-- 📫 How to reach me: dhanasekarviji15@gmail.com
+- 📫 Reach me at dhanasekarviji15@gmail.com
+- 🔗 My Linkedin profile https://www.linkedin.com/in/dhanasekar15/
 
 <!--
 **Dhana1715/dhana1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
