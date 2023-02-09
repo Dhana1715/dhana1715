@@ -1,7 +1,10 @@
-### Hi there 👋
 
-- 🔭 I’m interested in web application development.
-- 🌱 I’m currently learning React
+<body style="background-color:white;">
+  <h1 align="center">Hi 👋 , I'm  Dhanasekar </h1>
+<h3 align="center">Student | Developer </h3>
+
+- 🔭 Interested in web application development.
+- 🌱 Currently learning React
 - 📫 How to reach me: dhanasekarviji15@gmail.com
 
 <!--
