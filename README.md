@@ -1,7 +1,7 @@
 
 <body style="background-color:white;">
   <h1 align="center">Hi 👋 , I'm  Dhanasekar </h1>
-<h3 align="center">Student | Developer </h3>
+<h3 align="center"> Software Developer | Student </h3>
 
 - 🔭 Interested in web application development.
 - 🌱 Currently learning React
