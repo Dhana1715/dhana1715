@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m interested in web application development.
+- 🌱 I’m currently learning React
+- 📫 How to reach me: dhanasekarviji15@gmail.com
+
 <!--
 **Dhana1715/dhana1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
